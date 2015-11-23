@@ -6,7 +6,7 @@ I find myslef recommending Capybara to many companies and developers, not all of
  - Cucumber
  - Capybara
  - Using browser:
-   - Phamtom (using Poltergiest)
+   - Phantom (using Poltergiest)
 
 I'd like to add:
 
