@@ -1,9 +1,6 @@
-require 'capybara'
 require 'capybara/cucumber'
 require 'capybara/poltergeist'
 require 'net/http'
-
-include Capybara::DSL
 
 Capybara.register_driver :poltergeist do |app|
   Capybara::Poltergeist::Driver.new(app, {
