@@ -16,3 +16,11 @@ I'd like to add:
    - Selenium
    - Selenium Grid
 
+How to use
+===
+
+1. Make sure ruby is installed `ruby -v` - I'd recommend 2.0.0 or later, if it's not or you want to upgrade visit https://www.ruby-lang.org/en/documentation/installation/
+2. Make sure bundler is installed `bundle -v`, if it's not installed run `gem install bundler`
+3. Install dependencies `bundle install`
+4. Run the tests `bundle exec cucumber`
+
